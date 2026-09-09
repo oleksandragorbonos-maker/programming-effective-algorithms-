@@ -2,6 +2,10 @@
 
 The first laboratory work contains three independent C++17 solutions.
 
+## Due date
+
+Wednesday, September 30, 2026.
+
 | File | Purpose |
 | --- | --- |
 | `task-01.cpp` | Counts sentence endings marked by `.`, `!`, or `?`. Consecutive punctuation marks count as one ending. |
