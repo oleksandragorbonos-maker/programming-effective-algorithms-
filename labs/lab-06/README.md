@@ -1,5 +1,9 @@
 # Lab 06
 
+## Due date
+
+Monday, October 5, 2026.
+
 ## Task
 
 Describe the laboratory task here.
