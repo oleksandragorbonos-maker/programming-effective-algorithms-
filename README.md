@@ -29,7 +29,7 @@ screenshots together inside the relevant folder.
 
 | Work | Status | Notes |
 | --- | --- | --- |
-| Lab 01 | Not started | |
+| Lab 01 | Completed | Three C++17 task solutions are available in `labs/lab-01/`. |
 | Lab 02 | Not started | |
 | Lab 03 | Not started | |
 | MKR 01 | Not started | |
