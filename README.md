@@ -1,30 +1,36 @@
 # Programming Effective Algorithms
 
-Solutions for laboratory assignments and independent algorithm exercises.
+Repository for course educational materials.
 
-## Repository structure
+## Structure
 
 ```text
-lab1/
-├── README.md
-├── task1.cpp
-├── task2.cpp
-└── task3.cpp
+labs/
+  lab-01/
+  lab-02/
+  lab-03/
+mkr/
+  mkr-01/
+  mkr-02/
 ```
 
-Each task is a standalone C++ program. Input is read from standard input and
-the result is written to standard output.
+Each lab and MKR has its own folder. Keep source code, input data, reports, and
+screenshots together inside the relevant folder.
 
-## Building a task
+## Naming conventions
 
-The solutions require C++17 or newer. From the repository root, compile and
-run a task with:
+- Use `lab-01`, `lab-02`, and `lab-03` for laboratory work.
+- Use `mkr-01` and `mkr-02` for modular control works.
+- Use lowercase names with hyphens for additional files and folders.
+- Put generated build files and temporary output outside the repository or in
+  ignored build directories.
 
-```bash
-g++ -std=c++17 -O2 -Wall -Wextra lab1/task1.cpp -o task1
-./task1
-```
+## Progress
 
-Replace `task1.cpp` and `task1` with the task you want to run.
-
-Compiled binaries and other generated files are excluded by `.gitignore`.
+| Work | Status | Notes |
+| --- | --- | --- |
+| Lab 01 | Completed | Three C++17 task solutions are available in `labs/lab-01/`. |
+| Lab 02 | Not started | |
+| Lab 03 | Not started | |
+| MKR 01 | Not started | |
+| MKR 02 | Not started | |
