@@ -40,3 +40,16 @@ screenshots together inside the relevant folder.
 | Lab 06 | Not started | |
 | MKR 01 | Not started | |
 | MKR 02 | Not started | |
+
+## Deadlines
+
+| Work | Due date |
+| --- | --- |
+| Lab 01 | September 30, 2026 |
+| Lab 02 | October 1, 2026 |
+| Lab 03 | October 2, 2026 |
+| Lab 04 | October 3, 2026 |
+| Lab 05 | September 20, 2026 |
+| Lab 06 | October 5, 2026 |
+| MKR 01 | October 13, 2026 at 12:20 |
+| MKR 02 | November 24, 2026 at 12:20 |
