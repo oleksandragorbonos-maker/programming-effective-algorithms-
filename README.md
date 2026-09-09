@@ -30,13 +30,13 @@ screenshots together inside the relevant folder.
 
 ## Progress
 
-| Work | Status | Notes |
-| --- | --- | --- |
-| Lab 01 | Completed | Three C++17 task solutions are available in `labs/lab-01/`. |
-| Lab 02 | Not started | |
-| Lab 03 | Not started | |
-| Lab 04 | Not started | |
-| Lab 05 | Not started | |
-| Lab 06 | Not started | |
-| MKR 01 | Not started | |
-| MKR 02 | Not started | |
+| Work | Status | Deadline | Notes |
+| --- | --- | --- | --- |
+| Lab 01 | Completed | September 30, 2026 | Three C++17 task solutions are available in `labs/lab-01/`. |
+| Lab 02 | Not started | October 1, 2026 | |
+| Lab 03 | Not started | October 2, 2026 | |
+| Lab 04 | Not started | October 3, 2026 | |
+| Lab 05 | Not started | September 20, 2026 | |
+| Lab 06 | Not started | October 5, 2026 | |
+| MKR 01 | Not started | October 13, 2026 at 12:20 | |
+| MKR 02 | Not started | November 24, 2026 at 12:20 | |
